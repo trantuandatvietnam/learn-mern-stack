@@ -1,0 +1,3 @@
+GET http://localhost:3000/api/posts?user=6228c3f364f1c0d3aa4327b4
+
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjI4YzNmMzY0ZjFjMGQzYWE0MzI3YjQiLCJpYXQiOjE2NDY4Mzg3NzF9.vafo3xLtjsOsVCRXhc-GtQhm6cze6273UiaWkC5a5b0
