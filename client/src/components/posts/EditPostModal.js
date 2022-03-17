@@ -59,7 +59,7 @@ const EditPostModal = (props) => {
         >
             <Modal.Header closeButton>
                 <Modal.Title id="contained-modal-title-vcenter">
-                    Sửa bản ghi của bạn
+                    Sửa bản ghi
                 </Modal.Title>
             </Modal.Header>
             <Modal.Body>

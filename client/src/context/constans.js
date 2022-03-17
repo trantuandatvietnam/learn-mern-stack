@@ -1,5 +1,5 @@
 export const API_URL =
     process.env.NODE_ENV !== 'production'
-        ? 'https://obscure-atoll-10271.herokuapp.com/api'
-        : 'some';
+        ? 'http://localhost:5000/api'
+        : 'https://mern-stack-lern.herokuapp.com/api';
 export const LOCAL_STORAGE_TOKEN_NAME = 'learn-mern';
